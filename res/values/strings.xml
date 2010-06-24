@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">App Tracker Premium</string>
+    <string name="install_free_text">\
+App Tracker Premium is simply a license for the free App Tracker, \
+meaning you\'ll still need to install that version in order for it to work. \
+Thanks for buying! :)</string>
+    <string name="thanks">\
+App Tracker Premium was successfully installed. \
+This icon will remove itself from your application \
+tray the next time you reboot.  Thanks! :)</string>
+</resources>
